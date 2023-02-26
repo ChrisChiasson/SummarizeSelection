@@ -1,4 +1,4 @@
-# Summarize Selection in OpenAI ChatGPT
+# Privacy Policy for Summarize Selection in OpenAI ChatGPT
 
 Summarize selected text in OpenAI ChatGPT. This is useful to save time with articles and documentation. I am not affiliated with OpenAI. You must be logged in to ChatGPT.
 
